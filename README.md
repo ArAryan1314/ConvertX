@@ -1,3 +1,11 @@
+<!-- fork-notice:start -->
+
+> **About this fork:** maintained copy of [C4illin/ConvertX](https://github.com/C4illin/ConvertX), used for learning and integration. All credit for the original work goes to its authors. License: AGPL-3.0 (see `LICENSE`).
+>
+> [![Standard CI](https://github.com/ArAryan1314/ConvertX/actions/workflows/standard-ci.yml/badge.svg)](https://github.com/ArAryan1314/ConvertX/actions/workflows/standard-ci.yml)
+
+<!-- fork-notice:end -->
+
 ![ConvertX](images/logo.png)
 
 # ConvertX
